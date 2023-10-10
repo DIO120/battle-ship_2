@@ -129,7 +129,7 @@ public:
 
     void set() {
         srand(time(NULL));
-        int numShips = 10; // Total number of ships to deploy
+        int numShips = 10; // Total number of ships to deploy 
 
         //  We place 1 - deck ships
         while (numShips > 0) {
